@@ -1,4 +1,13 @@
-[
+[   
+   {
+      "time": 3,
+      "actions": [
+         {
+            "actionType": "playAnimation",
+            "param": "testCubeAni"
+         }
+      ]
+   },
    {
       "time": 5,
       "actions": [
@@ -22,6 +31,15 @@
          {
             "actionType": "toggleObject",
             "param": "Object2"
+         }
+      ]
+   },
+   {
+      "time": 12,
+      "actions": [
+         {
+            "actionType": "playAnimation",
+            "param": "testCubeAni"
          }
       ]
    },
