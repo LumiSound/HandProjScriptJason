@@ -1,4 +1,4 @@
-[   
+[
    {
       "time": 3,
       "actions": [
@@ -55,7 +55,7 @@
             "param": "Object3"
          }
       ]
-   }
+   },
    {
       "time": 20,
       "actions": [
@@ -68,5 +68,5 @@
             "param": "Object2"
          }
       ]
-   },
+   }
 ]
