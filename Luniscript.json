@@ -38,4 +38,17 @@
          }
       ]
    }
+   {
+      "time": 20,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "Sound2"
+         },
+         {
+            "actionType": "toggleObject",
+            "param": "Object2"
+         }
+      ]
+   },
 ]
