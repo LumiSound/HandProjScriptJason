@@ -18,10 +18,6 @@
          {
             "actionType": "playSound",
             "param": "FishMan_VO_Intro"
-         },
-         {
-            "actionType": "playAnimation",
-            "param": "FishManTalking"
          }
       ]
    },
