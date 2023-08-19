@@ -4,7 +4,7 @@
       "actions": [
          {
             "actionType": "playAnimation",
-            "param": "FishmanP0toP1"
+            "param": "Fishman_A1"
          }
       ]
    },
