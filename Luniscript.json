@@ -1,19 +1,14 @@
 [
    {
-      "time": 0,
-      "actions": [
-         {
-            "actionType": "playAnimation",
-            "param": "Fishman_A1"
-         }
-      ]
-   },
-   {
       "time": 0.1,
       "actions": [
          {
             "actionType": "playSound",
             "param": "Bubble_AmbientSound"
+         },
+         {
+            "actionType": "playAnimation",
+            "param": "Fishman_A1"
          }
       ]
    },
