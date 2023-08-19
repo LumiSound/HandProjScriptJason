@@ -1,58 +1,50 @@
 [
    {
+      "time": 0,
+      "actions": [
+         {
+            "actionType": "playAnimation",
+            "param": "FishmanP0toP1"
+         }
+      ]
+   },
+   {
+      "time": 0,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "Bubble_Ambient_Sound"
+         }
+      ]
+   },
+   {
+      "time": 1,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "FishMan_VO_Intro"
+         },
+         {
+            "actionType": "playAnimation",
+            "param": "FishManTalking"
+         }
+      ]
+   },
+   {
       "time": 3,
       "actions": [
          {
             "actionType": "playAnimation",
-            "param": "testCubeAni"
+            "param": "FishmanP1toP2"
          }
       ]
    },
    {
-      "time": 5,
+      "time": 7,
       "actions": [
          {
             "actionType": "playSound",
-            "param": "Sound1"
-         },
-         {
-            "actionType": "toggleObject",
-            "param": "Object1"
-         }
-      ]
-   },
-   {
-      "time": 10,
-      "actions": [
-         {
-            "actionType": "playSound",
-            "param": "Sound2"
-         },
-         {
-            "actionType": "toggleObject",
-            "param": "Object2"
-         }
-      ]
-   },
-   {
-      "time": 12,
-      "actions": [
-         {
-            "actionType": "playAnimation",
-            "param": "testCubeAni"
-         }
-      ]
-   },
-   {
-      "time": 15,
-      "actions": [
-         {
-            "actionType": "playSound",
-            "param": "Sound3"
-         },
-         {
-            "actionType": "toggleObject",
-            "param": "Object3"
+            "param": "Bolero_A_Intro"
          }
       ]
    },
@@ -60,12 +52,52 @@
       "time": 20,
       "actions": [
          {
-            "actionType": "playSound",
-            "param": "Sound2"
+            "actionType": "playAnimation",
+            "param": "FishmanTurnFromPlayer"
          },
          {
+            "actionType": "playAnimation",
+            "param": "SceneMove"
+         }
+      ]
+   },
+   {
+      "time": 22,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "FishMan_VO_hint_01"
+         },
+         {
+            "actionType": "playAnimation",
+            "param": "SceneStop"
+         },
+         {
+            "actionType": "playAnimation",
+            "param": "FishManTurnToPlayer"
+         },
+         {
+            "actionType": "playAnimation",
+            "param": "FishManTalking"
+         }
+      ]
+   },
+   {
+      "time": 28,
+      "actions": [
+         {
             "actionType": "toggleObject",
-            "param": "Object2"
+            "param": "VirtualHandHint",
+            "//": "add on / off param to toggle object"
+         }         
+      ]
+   },
+   {
+      "time": 29,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "Bolero_Loop"
          }
       ]
    }
