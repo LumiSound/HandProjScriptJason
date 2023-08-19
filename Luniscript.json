@@ -31,15 +31,6 @@
       ]
    },
    {
-      "time": 3,
-      "actions": [
-         {
-            "actionType": "playAnimation",
-            "param": "FishmanP1toP2"
-         }
-      ]
-   },
-   {
       "time": 7,
       "actions": [
          {
