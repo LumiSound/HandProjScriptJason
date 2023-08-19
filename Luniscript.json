@@ -79,6 +79,10 @@
          {
             "actionType": "playAnimation",
             "param": "FishManTalking"
+         },
+         {
+            "actionType": "toggleObject",
+            "param": "PepperCan"
          }
       ]
    },
