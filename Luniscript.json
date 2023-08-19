@@ -9,7 +9,7 @@
       ]
    },
    {
-      "time": 0,
+      "time": 0.1,
       "actions": [
          {
             "actionType": "playSound",
