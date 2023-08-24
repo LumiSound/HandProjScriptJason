@@ -4,11 +4,11 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param":  {
+            "param":  "{
                "filename": "Bolero_A_Intro",
                "loopType": "Loop",
                "bpm": 120
-            }
+            }"
          },
          {
             "actionType": "playAnimation",
