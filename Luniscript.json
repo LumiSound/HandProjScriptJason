@@ -6,7 +6,7 @@
             "actionType": "playSound",
             "param":  "{
                "filename": "Bolero_A_Intro",
-               "loopType": "Loop",
+               "loopType": "loop",
                "bpm": 120
             }"
          },
