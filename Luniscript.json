@@ -4,87 +4,53 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "Bolero_A_Intro, loop, 120"
-         },
-         {
-            "actionType": "playAnimation",
-            "param": "Fishman_A1"
+            "param": "Underwater_AmbiSound, once, 10"
          }
       ]
    },
    {
-      "time": 1,
+      "time": 13,
       "actions": [
          {
             "actionType": "playSound",
-            "param": "FishMan_VO_Intro"
+            "param": "ShallowAwaken, once, 10"
          }
       ]
    },
    {
-      "time": 7,
+      "time": 30,
       "actions": [
          {
             "actionType": "playSound",
-            "param": "Bolero_A_Intro"
+            "param": "NaturePowerVO_Intro"
          }
       ]
    },
    {
-      "time": 20,
-      "actions": [
-         {
-            "actionType": "playAnimation",
-            "param": "FishmanTurnFromPlayer"
-         },
-         {
-            "actionType": "playAnimation",
-            "param": "SceneMove"
-         }
-      ]
-   },
-   {
-      "time": 22,
+      "time": 76,
       "actions": [
          {
             "actionType": "playSound",
-            "param": "FishMan_Hint_1"
-         },
-         {
-            "actionType": "playAnimation",
-            "param": "SceneStop"
-         },
-         {
-            "actionType": "playAnimation",
-            "param": "FishManTurnToPlayer"
-         },
-         {
-            "actionType": "playAnimation",
-            "param": "FishManTalking"
-         },
-         {
-            "actionType": "toggleObject",
-            "param": "PepperCan"
+            "param": "AquaMusicA1, once, 10"
          }
       ]
    },
    {
-      "time": 28,
+      "time": 92,
       "actions": [
          {
-            "actionType": "toggleObject",
-            "param": "VirtualHandHint",
-            "//": "add on / off param to toggle object"
+            "actionType": "playSound",
+            "param": "PepperPowder_BellGrasp, once, 10"
+         }
+      ]
+   },
+   {
+      "time": 107,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "PepperPowder_BellRing, once, 10"
          }         
-      ]
-   },
-   {
-      "time": 29,
-      "actions": [
-         {
-            "actionType": "playSound",
-            "param": "Bolero_Loop"
-         }
       ]
    }
 ]
