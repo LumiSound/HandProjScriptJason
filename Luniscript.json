@@ -4,7 +4,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "Underwater_AmbiSound, once, 10"
+            "param": "Underwater_AmbiSound"
          }
       ]
    },
@@ -13,7 +13,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "ShallowAwaken, once, 10"
+            "param": "ShallowAwaken"
          }
       ]
    },
@@ -31,7 +31,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "AquaMusicA1, once, 10"
+            "param": "AquaMusicA1"
          }
       ]
    },
@@ -40,7 +40,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "PepperPowder_BellGrasp, once, 10"
+            "param": "PepperPowder_BellGrasp"
          }
       ]
    },
@@ -49,7 +49,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "PepperPowder_BellRing, once, 10"
+            "param": "PepperPowder_BellRing"
          }         
       ]
    }
