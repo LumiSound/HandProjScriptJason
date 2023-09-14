@@ -31,7 +31,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "AquaMusicA1, once, 30"
+            "param": "AquaMusicA1, once, 60"
          }
       ]
    },
@@ -50,6 +50,15 @@
          {
             "actionType": "playSound",
             "param": "PepperPowder_BellRing, once, 0"
+         }         
+      ]
+   },
+   {
+      "time": 127,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "Bubble_PepperSprinkle, once, 0"
          }         
       ]
    }
