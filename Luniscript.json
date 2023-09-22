@@ -4,7 +4,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "Underwater_AmbiSound, once, 60"
+            "param": "clip:Underwater_AmbiSound, loopType:once, bpm:60"
          }
       ]
    },
