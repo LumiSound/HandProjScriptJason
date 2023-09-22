@@ -12,8 +12,8 @@
       "time": 13,
       "actions": [
          {
-            "actionType": "playSound",
-            "param": "ShallowAwaken, once, 0"
+            "actionType": "showUI",
+            "param": "text:這是說明文字, showHide:true"
          }
       ]
    },
@@ -21,8 +21,8 @@
       "time": 30,
       "actions": [
          {
-            "actionType": "playSound",
-            "param": "NaturePowerVO_Intro, once, 0"
+            "actionType": "showUI",
+            "param": "text:這是說明文字, showHide:false"
          }
       ]
    },
