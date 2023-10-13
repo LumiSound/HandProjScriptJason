@@ -9,11 +9,29 @@
       ]
    },
    {
+      "time": 5,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:About to start..., showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 10,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:About to start..., showHide:false"
+         }
+      ]
+   },
+   {
       "time": 13,
       "actions": [
          {
             "actionType": "showUI",
-            "param": "text:這是說明文字, showHide:true"
+            "param": "text:About to start..., showHide:true"
          }
       ]
    },
@@ -22,7 +40,7 @@
       "actions": [
          {
             "actionType": "showUI",
-            "param": "text:這是說明文字, showHide:false"
+            "param": "text:About to start..., showHide:false"
          }
       ]
    },
