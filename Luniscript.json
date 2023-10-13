@@ -9,6 +9,24 @@
       ]
    },
    {
+      "time": 13,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:About to start...,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 15,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:About to start...,showHide:false"
+         }
+      ]
+   },
+   {
       "time": 76,
       "actions": [
          {
