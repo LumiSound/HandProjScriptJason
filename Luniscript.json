@@ -9,7 +9,7 @@
       ]
    },
    {
-      "time": 13,
+      "time": 3,
       "actions": [
          {
             "actionType": "showUI",
@@ -18,7 +18,7 @@
       ]
    },
    {
-      "time": 15,
+      "time": 8,
       "actions": [
          {
             "actionType": "showUI",
