@@ -1,0 +1,65 @@
+[
+   {
+      "time": 0.1,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "clip:Underwater_AmbiSound,loopType:once,bpm:0"
+         }
+      ]
+   },
+   {
+      "time": 3,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:About to start...,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 8,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:About to start...,showHide:false"
+         }
+      ]
+   },
+   {
+      "time": 76,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "clip:AquaMusicA1,loopType:once,bpm:60"
+         }
+      ]
+   },
+   {
+      "time": 92,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "clip:PepperPowder_BellGrasp,loopType:once,bpm:0"
+         }
+      ]
+   },
+   {
+      "time": 107,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "clip:PepperPowder_BellRing,loopType:once,bpm:0"
+         }         
+      ]
+   },
+   {
+      "time": 127,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "clip:Bubble_PepperSprinkle,loopType:once,bpm:0"
+         }         
+      ]
+   }
+]
