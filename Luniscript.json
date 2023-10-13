@@ -4,7 +4,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip: Underwater_AmbiSound, loopType:once, bpm:0"
+            "param": "clip:Underwater_AmbiSound,loopType:once,bpm:0"
          }
       ]
    },
@@ -13,7 +13,7 @@
       "actions": [
          {
             "actionType": "showUI",
-            "param": "text:About to start..., showHide:true"
+            "param": "text:About to start...,showHide:true"
          }
       ]
    },
@@ -22,7 +22,7 @@
       "actions": [
          {
             "actionType": "showUI",
-            "param": "text:About to start..., showHide:false"
+            "param": "text:About to start...,showHide:false"
          }
       ]
    },
@@ -31,7 +31,7 @@
       "actions": [
          {
             "actionType": "showUI",
-            "param": "text:About to start..., showHide:true"
+            "param": "text:About to start...,showHide:true"
          }
       ]
    },
@@ -40,7 +40,7 @@
       "actions": [
          {
             "actionType": "showUI",
-            "param": "text:About to start..., showHide:false"
+            "param": "text:About to start...,showHide:false"
          }
       ]
    },
@@ -49,7 +49,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip: AquaMusicA1, loopType:once, bpm:60"
+            "param": "clip:AquaMusicA1,loopType:once,bpm:60"
          }
       ]
    },
@@ -58,7 +58,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip: PepperPowder_BellGrasp, loopType:once, bpm:0"
+            "param": "clip:PepperPowder_BellGrasp,loopType:once,bpm:0"
          }
       ]
    },
@@ -67,7 +67,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip: PepperPowder_BellRing, loopType:once, bpm:0"
+            "param": "clip:PepperPowder_BellRing,loopType:once,bpm:0"
          }         
       ]
    },
@@ -76,7 +76,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip: Bubble_PepperSprinkle, loopType:once, bpm:0"
+            "param": "clip:Bubble_PepperSprinkle,loopType:once,bpm:0"
          }         
       ]
    }
