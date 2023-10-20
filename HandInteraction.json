@@ -9,7 +9,7 @@
       ]
    },
    {
-      "time": 8,
+      "time": 30,
       "actions": [
          {
             "actionType": "toggleObject",
