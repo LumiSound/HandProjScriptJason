@@ -9,6 +9,15 @@
       ]
    },
    {
+      "time": 5,
+      "actions": [
+         {
+            "actionType": "toggleObject",
+            "param": "object:HandShake"
+         }
+      ]
+   },
+   {
       "time": 76,
       "actions": [
          {
