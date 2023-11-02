@@ -9,11 +9,29 @@
       ]
    },
    {
+      "time": 3,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:text test 1,showHide:true"
+         }
+      ]
+   },
+   {
       "time": 5,
       "actions": [
          {
             "actionType": "toggleObject",
             "param": "object:HandShake"
+         }
+      ]
+   },
+   {
+      "time": 8,
+      "actions": [
+         {
+            "actionType": "showUI",
+            "param": "text:text test 1,showHide:false"
          }
       ]
    },
