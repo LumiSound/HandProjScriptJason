@@ -36,6 +36,15 @@
       ]
    },
    {
+      "time": 30,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "clip:NaturePowerVO_Intro,loopType:once,bpm:0"
+         }
+      ]
+   }
+   {
       "time": 76,
       "actions": [
          {
