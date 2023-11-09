@@ -9,29 +9,11 @@
       ]
    },
    {
-      "time": 3,
+      "time": 13,
       "actions": [
          {
-            "actionType": "showUI",
-            "param": "text:text test 1,showHide:true"
-         }
-      ]
-   },
-   {
-      "time": 5,
-      "actions": [
-         {
-            "actionType": "toggleObject",
-            "param": "object:HandShake"
-         }
-      ]
-   },
-   {
-      "time": 8,
-      "actions": [
-         {
-            "actionType": "showUI",
-            "param": "text:text test 1,showHide:false"
+            "actionType": "playSound",
+            "param": "clip:ShallowAwaken,loopType:once,bpm:0"
          }
       ]
    },
@@ -43,7 +25,7 @@
             "param": "clip:NaturePowerVO_Intro,loopType:once,bpm:0"
          }
       ]
-   }
+   },
    {
       "time": 76,
       "actions": [
@@ -54,30 +36,21 @@
       ]
    },
    {
-      "time": 92,
+      "time": 101,
       "actions": [
          {
-            "actionType": "playSound",
-            "param": "clip:PepperPowder_BellGrasp,loopType:once,bpm:0"
+            "actionType": "showUI",
+            "param": "text:Grab the shell hand bell...,showHide:true"
          }
       ]
    },
    {
-      "time": 107,
+      "time": 123,
       "actions": [
          {
-            "actionType": "playSound",
-            "param": "clip:PepperPowder_BellRing,loopType:once,bpm:0"
-         }         
-      ]
-   },
-   {
-      "time": 127,
-      "actions": [
-         {
-            "actionType": "playSound",
-            "param": "clip:Bubble_PepperSprinkle,loopType:once,bpm:0"
-         }         
+            "actionType": "showUI",
+            "param": "text:Grab the magic wand...,showHide:true"
+         }
       ]
    }
 ]
