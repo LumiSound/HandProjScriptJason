@@ -36,6 +36,15 @@
       ]
    },
    {
+      "time": 99,
+      "actions": [
+         {
+            "actionType": "playSound",
+            "param": "clip:AquaMusicA1,loopType:once,bpm:60"
+         }
+      ]
+   },
+   {
       "time": 101,
       "actions": [
          {
