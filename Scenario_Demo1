@@ -39,8 +39,8 @@
       "time": 99,
       "actions": [
          {
-            "actionType": "playSound",
-            "param": "clip:AquaMusicA1,loopType:once,bpm:60"
+            "actionType": "toggleObject",
+            "param": "object: ShellRingShake"
          }
       ]
    },
@@ -50,6 +50,24 @@
          {
             "actionType": "showUI",
             "param": "text:Grab the shell hand bell...,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 115,
+      "actions": [
+         {
+            "actionType": "toggleObject",
+            "param": "object: ShellRingShake"
+         }
+      ]
+   },
+   {
+      "time": 121,
+      "actions": [
+         {
+            "actionType": "toggleObject",
+            "param": "object: SmallerStuff"
          }
       ]
    },
