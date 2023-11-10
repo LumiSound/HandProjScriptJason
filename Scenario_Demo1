@@ -4,7 +4,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip:Underwater_AmbiSound,loopType:once,bpm:30"
+            "param": "clip:Underwater_AmbiSound,loopType:once,bpm:12"
          }
       ]
    },
@@ -13,7 +13,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip:ShallowAwaken,loopType:once,bpm:0"
+            "param": "clip:ShallowAwaken,loopType:once,bpm:90"
          }
       ]
    },
@@ -31,7 +31,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip:AquaMusicA1,loopType:once,bpm:60"
+            "param": "clip:AquaMusicA1,loopType:once,bpm:80"
          }
       ]
    },
