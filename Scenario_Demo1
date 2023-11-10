@@ -40,7 +40,7 @@
       "actions": [
          {
             "actionType": "toggleObject",
-            "param": "object: ShellRingShake"
+            "param": "object:ShellRingShake"
          }
       ]
    },
@@ -58,7 +58,7 @@
       "actions": [
          {
             "actionType": "toggleObject",
-            "param": "object: ShellRingShake"
+            "param": "object:ShellRingShake"
          }
       ]
    },
@@ -67,7 +67,7 @@
       "actions": [
          {
             "actionType": "toggleObject",
-            "param": "object: SmallerStuff"
+            "param": "object:SmallerStuff"
          }
       ]
    },
