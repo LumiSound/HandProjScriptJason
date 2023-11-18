@@ -31,7 +31,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip:AquaMusicA1,loopType:once,bpm:70"
+            "param": "clip:AquaMusicA1,loopType:once,bpm:60"
          }
       ]
    },
