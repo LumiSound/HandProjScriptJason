@@ -13,7 +13,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip:ShallowAwaken,loopType:once,bpm:90"
+            "param": "clip:ShallowAwaken,loopType:once,bpm:0"
          }
       ]
    },
@@ -22,7 +22,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip:NaturePowerVO_Intro,loopType:once,bpm:0"
+            "param": "clip:NaturePowerVO_Intro,loopType:once,bpm:100"
          }
       ]
    },
@@ -31,7 +31,7 @@
       "actions": [
          {
             "actionType": "playSound",
-            "param": "clip:AquaMusicA1,loopType:once,bpm:80"
+            "param": "clip:AquaMusicA1,loopType:once,bpm:70"
          }
       ]
    },
