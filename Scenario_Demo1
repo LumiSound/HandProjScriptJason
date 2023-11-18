@@ -36,7 +36,7 @@
       ]
    },
    {
-      "time": 99,
+      "time": 80,
       "actions": [
          {
             "actionType": "toggleObject",
@@ -53,15 +53,7 @@
          }
       ]
    },
-   {
-      "time": 115,
-      "actions": [
-         {
-            "actionType": "toggleObject",
-            "param": "object:ShellRingShake"
-         }
-      ]
-   },
+
    {
       "time": 121,
       "actions": [
