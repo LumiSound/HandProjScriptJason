@@ -54,7 +54,7 @@
       ]
    },
    {
-      "time": 80,
+      "time": 120,
       "actions": [
          {
             "actionType": "hideMusicInstrumentCommand",
