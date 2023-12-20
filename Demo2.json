@@ -39,8 +39,8 @@
       "time": 80,
       "actions": [
          {
-            "actionType": "toggleObjectCommand",
-            "param": "object:ShellRingShake"
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:ShellRingShake,clip:Seashell_Bell_C"
          }
       ]
    },
@@ -53,13 +53,21 @@
          }
       ]
    },
-
+   {
+      "time": 80,
+      "actions": [
+         {
+            "actionType": "hideMusicInstrumentCommand",
+            "param": "object:ShellRingShake"
+         }
+      ]
+   },
    {
       "time": 121,
       "actions": [
          {
-            "actionType": "toggleObjectCommand",
-            "param": "object:SmallerStuff"
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:SmallerStuff,clip:Seashell_Bell_D"
          }
       ]
    },
