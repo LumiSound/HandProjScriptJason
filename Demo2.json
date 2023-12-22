@@ -4,33 +4,6 @@
       "actions": [
          {
             "actionType": "playSoundCommand",
-            "param": "clip:Underwater_AmbiSound,loopType:once,bpm:12"
-         }
-      ]
-   },
-   {
-      "time": 13,
-      "actions": [
-         {
-            "actionType": "playSoundCommand",
-            "param": "clip:ShallowAwaken,loopType:once,bpm:0"
-         }
-      ]
-   },
-   {
-      "time": 30,
-      "actions": [
-         {
-            "actionType": "playSoundCommand",
-            "param": "clip:NaturePowerVO_Intro,loopType:once,bpm:100"
-         }
-      ]
-   },
-   {
-      "time": 76,
-      "actions": [
-         {
-            "actionType": "playSoundCommand",
             "param": "clip:AquaMusicA1,loopType:once,bpm:72"
          }
       ]
@@ -45,7 +18,7 @@
       ]
    },
    {
-      "time": 101,
+      "time": 82,
       "actions": [
          {
             "actionType": "showUICommand",
@@ -77,6 +50,15 @@
          {
             "actionType": "showUICommand",
             "param": "text:Grab the magic wand...,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 130,
+      "actions": [
+         {
+            "actionType": "hideMusicInstrumentCommand",
+            "param": "object:SmallerStuff"
          }
       ]
    }
