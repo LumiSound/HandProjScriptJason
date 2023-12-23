@@ -26,17 +26,7 @@
             "param": "text:About to start...,showHide:false"
          }
       ]
-   },
-   {
-      "time": 2,
-      "actions": [
-         {
-            "actionType": "showUICommand",
-            "param": "text:About to start...,showHide:true"
-         }
-      ]
-   },
-   
+   },   
    {
       "time": 10,
       "actions": [
@@ -56,7 +46,7 @@
       ]
    },
    {
-      "time": 12,
+      "time": 14,
       "actions": [
          {
             "actionType": "showUICommand",
