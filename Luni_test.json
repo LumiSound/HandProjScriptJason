@@ -12,17 +12,64 @@
       "time": 2,
       "actions": [
          {
-            "actionType": "showUI",
+            "actionType": "showUICommand",
             "param": "text:About to start...,showHide:true"
          }
       ]
    },
+   
    {
       "time": 8,
       "actions": [
          {
-            "actionType": "showUI",
+            "actionType": "showUICommand",
             "param": "text:About to start...,showHide:false"
+         }
+      ]
+   },
+   {
+      "time": 2,
+      "actions": [
+         {
+            "actionType": "showUICommand",
+            "param": "text:About to start...,showHide:true"
+         }
+      ]
+   },
+   
+   {
+      "time": 10,
+      "actions": [
+         {
+            "actionType": "showUICommand",
+            "param": "text:just look at thw world ariund you,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 12,
+      "actions": [
+         {
+            "actionType": "showUICommand",
+            "param": "text:right here on the ocean floor,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 12,
+      "actions": [
+         {
+            "actionType": "showUICommand",
+            "param": "text:right here on the ocean floor,showHide:false"
+         }
+      ]
+   },
+   {
+      "time": 22,
+      "actions": [
+         {
+            "actionType": "showUICommand",
+            "param": "text:Grab the shell hand bell...,showHide:true"
          }
       ]
    }
