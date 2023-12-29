@@ -9,43 +9,25 @@
       ]
    },
    {
-      "time": 80,
+      "time": 40,
       "actions": [
          {
             "actionType": "showMusicInstrumentCommand",
-            "param": "object:ShellRingShake,clip:Seashell_Bell_C"
-         }
-      ]
-   },
-   {
-      "time": 82,
-      "actions": [
-         {
-            "actionType": "showUICommand",
-            "param": "text:Grab the shell hand bell...,showHide:true"
-         }
-      ]
-   },
-   {
-      "time": 120,
-      "actions": [
-         {
-            "actionType": "hideMusicInstrumentCommand",
             "param": "object:ShellRingShake"
          }
       ]
    },
    {
-      "time": 121,
+      "time": 40,
       "actions": [
          {
-            "actionType": "showMusicInstrumentCommand",
-            "param": "object:SmallerStuff,clip:Seashell_Bell_D"
+            "actionType": "showUICommand",
+            "param": "text:Grab the hand bell...,showHide:true"
          }
       ]
    },
    {
-      "time": 123,
+      "time": 45,
       "actions": [
          {
             "actionType": "showUICommand",
@@ -54,12 +36,50 @@
       ]
    },
    {
-      "time": 130,
+      "time": 65,
+      "actions": [
+         {
+            "actionType": "hideMusicInstrumentCommand",
+            "param": "object:ShellRingShake"
+         }
+      ]
+   },
+   {
+      "time": 68,
+      "actions": [
+         {
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:SmallerStuff"
+         }
+      ]
+   },
+   {
+      "time": 68,
+      "actions": [
+         {
+            "actionType": "showUICommand",
+            "param": "text:Grab the hand bell...,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 73,
+      "actions": [
+         {
+            "actionType": "showUICommand",
+            "param": "text:Grab the magic wand...,showHide:true"
+         }
+      ]
+   },
+   {
+      "time": 93,
       "actions": [
          {
             "actionType": "hideMusicInstrumentCommand",
             "param": "object:SmallerStuff"
          }
       ]
-   }
+   },
+   
+   
 ]
