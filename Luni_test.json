@@ -17,6 +17,24 @@
          }
       ]
    },
+   {
+      "time": 5,
+      "actions": [
+         {
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:Fishhorn_ver2"
+         }
+      ]
+   },
+   {
+      "time": 5,
+      "actions": [
+         {
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:ConchPianoGoodPosition"
+         }
+      ]
+   },
    
    {
       "time": 8,
