@@ -13,7 +13,7 @@
       "actions": [
          {
             "actionType": "showMusicInstrumentCommand",
-            "param": "object:ShellRingShake"
+            "param": "object:ShellRingShake,clip:Seashell_Bell_C"
          }
       ]
    },
@@ -49,7 +49,7 @@
       "actions": [
          {
             "actionType": "showMusicInstrumentCommand",
-            "param": "object:SmallerStuff"
+            "param": "object:SmallerStuff,clip:Seashell_Bell_C"
          }
       ]
    },
