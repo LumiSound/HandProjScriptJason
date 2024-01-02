@@ -9,76 +9,42 @@
       ]
    },
    {
-      "time": 2,
-      "actions": [
-         {
-            "actionType": "showUICommand",
-            "param": "text:About to start...,showHide:true"
-         }
-      ]
-   },
-   {
-      "time": 5,
+      "time": 3,
       "actions": [
          {
             "actionType": "showMusicInstrumentCommand",
-            "param": "object:Fishhorn_ver2"
+            "param": "object:ShellRingShake"
          }
       ]
    },
    {
-      "time": 5,
+      "time": 3,
       "actions": [
          {
             "actionType": "showMusicInstrumentCommand",
-            "param": "object:ConchPianoGoodPosition"
-         }
-      ]
-   },
-   
-   {
-      "time": 8,
-      "actions": [
-         {
-            "actionType": "showUICommand",
-            "param": "text:About to start...,showHide:false"
-         }
-      ]
-   },   
-   {
-      "time": 10,
-      "actions": [
-         {
-            "actionType": "showUICommand",
-            "param": "text:just look at thw world ariund you,showHide:true"
+            "param": "object:SmallerStuff"
          }
       ]
    },
    {
-      "time": 12,
+      "time": 3,
       "actions": [
          {
-            "actionType": "showUICommand",
-            "param": "text:right here on the ocean floor,showHide:true"
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:ConchPiano"
          }
       ]
    },
    {
-      "time": 14,
+      "time": 3,
       "actions": [
          {
-            "actionType": "showUICommand",
-            "param": "text:right here on the ocean floor,showHide:false"
-         }
-      ]
-   },
-   {
-      "time": 22,
-      "actions": [
-         {
-            "actionType": "showUICommand",
-            "param": "text:Grab the shell hand bell...,showHide:true"
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:FHornRevision"
          }
       ]
    }
+   
+   
+   
 ]
