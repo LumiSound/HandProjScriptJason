@@ -7,13 +7,13 @@
             "param": "clip:AquaMusicA1,loopType:loop,bpm:72"
          }
       ]
-   }
+   },
    {
-      "time": 3,
+      "time": 5,
       "actions": [
          {
-            "actionType": "showUI",
-            "param": "text:About to start...,showHide:true"
+            "actionType": "showUICommand",
+            "param": "text:Grab the magic wand...,showHide:false"
          }
       ]
    },
@@ -35,6 +35,15 @@
          }
       ]
    },
+   {
+      "time": 23,
+      "actions": [
+         {
+            "actionType": "hideMusicInstrumentCommand",
+            "param": "object:ShellRingShake"
+         }
+      ]
+   }
    {
       "time": 76,
       "actions": [
