@@ -18,6 +18,15 @@
       ]
    },
    {
+      "time": 4,
+      "actions": [
+         {
+            "actionType": "showMusicInstrumentCommand",
+            "param": "object:ShellRingShake"
+         }
+      ]
+   },
+   {
       "time": 8,
       "actions": [
          {
