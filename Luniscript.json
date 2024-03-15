@@ -3,11 +3,11 @@
       "time": 0.1,
       "actions": [
          {
-            "actionType": "playSound",
-            "param": "clip:Underwater_AmbiSound,loopType:once,bpm:0"
+            "actionType": "playSoundCommand",
+            "param": "clip:AquaMusicA1,loopType:loop,bpm:72"
          }
       ]
-   },
+   }
    {
       "time": 3,
       "actions": [
